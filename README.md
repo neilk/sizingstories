@@ -20,9 +20,8 @@ If you take away one thing from this guide: try not to guess how long the task w
 - New library or framework
 - Number of files to edit
 - Number of modules
-- Changes to how data is stored 
-    - Database migration
-    - Change in values shared in a networked cache
+- Changes to how data is stored
+    - Especially when multiple programs access that data 
 - Tests
 - Multiple disciplines (Frontend, Backend, Platform, Data, Analytics)
 - Requires coordinated deploys
