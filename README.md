@@ -1,8 +1,16 @@
-# Sizing stories
+# Sizing development tasks
 
-*Or, things that complicate delivery*
+*Or, how hard will it be to do that thing?*
 
-Don't think about how long the task will take, but rather how complex the task is. Some things which increase complexity:
+As developers, we are often asked to shoot from the hip and estimate how long a thing will take. In your mind, you visualize the working code. You know you can blast out a pretty large program in no time. What could go wrong? Why do you have to limit yourself to tiny steps and fit that into whatever your product person uses for reporting?
+
+You probably _can_ blast out a prototype, even of a very large feature, very quickly! What's going to slow you down are all the interactions with other things, and making sure that what is coded is actually going to be useful. If you are working in a tiny shop with a couple of programmers, sizing tasks is less important. When you start working with more than 8 other programmers, or with other teams, it starts to become very important.
+
+This is a checklist I made to help my team remember all the things that complicate delivery.
+
+I've added sample "story points" and T-shirt sizes, but if you hate those methods, that's okay.
+
+If you take away one thing from this guide: try not to guess how long the task will take; instead think about how complex the task is. Some things which increase complexity:
 
 - Design needed
 - Configuration
@@ -14,7 +22,7 @@ Don't think about how long the task will take, but rather how complex the task i
     - Database migration
     - Change in values shared in a networked cache
 - Tests
-- Multiple disciplines (Frontend, Backend, Platform, Data)
+- Multiple disciplines (Frontend, Backend, Platform, Data, Analytics)
 - Requires coordinated deploys
 - Requires service interruption to deploy
 - Changes how we deploy
@@ -22,16 +30,15 @@ Don't think about how long the task will take, but rather how complex the task i
 
 ## Rubric 
 
-This was developed to "size" stories with Agile-esque points, but should be helpful even if your process is less formal.
-Agile points are completely imaginary and specific to a team. You may want to use different numbers, or t-shirt sizes, or something else.
+I gave sample Agile points and t-shirt sizes, but they are of course just suggestions.
 
 It may seem surprising to consider one CSS change to be 1/3 of a new feature. But, consider the constant drag that applies to almost any change.
 Communicating what is needed, researching what you're going to do, then coding it, making sure it's what the customer or product owner wanted, 
 committing, getting code review, making sure tests pass, etc. etc. This is not a measure of how long it takes to type.
 
-*As always, use your common sense*
+*As always, use your common sense!*
 
-### 1 point
+### 1 point or Extra-Small (XS)
 
 Looks like
 
@@ -46,7 +53,7 @@ Examples
 - Fix a simple CSS bug
 - Copy change
 
-### 2 points
+### 2 points or Small (S)
 
 Looks like
 
@@ -66,7 +73,7 @@ Examples
 
 No feature flag required
  
-### 3 points
+### 3 points or Medium (M)
 
 Looks like
 
@@ -88,7 +95,7 @@ Examples
  
 Feature flag may be required
 
-### 5 points
+### 5 points or Large (L)
 
 Looks like
 
@@ -106,7 +113,7 @@ Examples
 
 A feature flag is almost certainly required
 
-### 8 points
+### 8 points or Extra-Large (XL)
 
 Looks like
 
@@ -121,9 +128,9 @@ Examples
 
 A feature flag is required
  
-### &gt; 8 points 
+### Anything bigger than that
 
-*Consider breaking it down, or doing a minimal prototype first?*
+*Don't make a task of this size! Break it down into multiple tasks, or do a minimal prototype first.*
 
 - A new service or feature
 - Introducing or migrating to a new framework
