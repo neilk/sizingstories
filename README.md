@@ -1,10 +1,12 @@
 # Sizing development tasks
 
-*Or, how hard will it be to do that thing?*
+## *Or, how hard will it be to do that thing?*
 
-As developers, we are often asked to shoot from the hip and estimate how long a thing will take. In your mind, you visualize the working code. You know you can blast out a pretty large program in no time. What could go wrong? Why do you have to limit yourself to tiny steps and fit that into whatever your product person uses for reporting?
+![measure-measuring](https://github.com/neilk/sizingstories/assets/266804/f36f4f1a-bbf2-4453-a432-ae78a2861f8d)
 
-You probably _can_ blast out a prototype, even of a very large feature, very quickly! What's going to slow you down are all the interactions with other things, and making sure that what is coded is actually going to be useful. If you are working in a tiny shop with a couple of programmers, sizing tasks is less important. When you start working with more than 8 other programmers, or with other teams, it starts to become very important.
+As developers, we are often asked to shoot from the hip and estimate how long a thing will take. In your mind, you visualize the working code. You know you can blast out a pretty large program in no time. What could go wrong?
+
+You probably _can_ blast out a prototype, even of a very large feature, very quickly! What's going to slow you down are all the interactions with (shudder) *other things*. Not to mention, making sure that what is coded is going to be useful to someone else. Sure, if you are working in a tiny shop with a couple of programmers, sizing tasks is less important. When you start working with bigger teams, or with other teams, it starts to become very important.
 
 This is a checklist I made to help my team remember all the things that complicate delivery.
 
