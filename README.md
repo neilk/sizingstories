@@ -29,6 +29,13 @@ If you take away one thing from this guide: try not to guess how long the task w
 - Changes how we deploy
 - Documentation
 
+## Caveat
+
+There are good arguments for not doing estimation at all. If you find
+it doesn't work for your team, bring it up in retro and fogure out somethjng better.
+We assume here that you've made the decision to use story points, 
+or it's company policy where you work.
+
 ## Rubric 
 
 I gave sample Agile points and t-shirt sizes, but they are of course just suggestions.
