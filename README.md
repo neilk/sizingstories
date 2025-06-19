@@ -37,8 +37,8 @@ We assume here that you've made the decision to use story points,
 or it's company policy where you work.
 
 Also, this document was created before agentic LLM coding tools
-existed. A rubric like this could still be useful, but with LLMs you should
-be estimating the work that a human nust do to validate what it did and 
+existed. A rubric like this could still be useful, but now you should
+be estimating the work to validate what your LLM did and 
 correct its mistakes.
 
 ## Rubric 
