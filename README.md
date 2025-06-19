@@ -31,8 +31,8 @@ If you take away one thing from this guide: try not to guess how long the task w
 
 ## Caveat
 
-There are good arguments for not doing estimation at all. If you find
-it doesn't work for your team, bring it up in retro and fogure out somethjng better.
+There are good arguments for not doing estimation at all.
+
 We assume here that you've made the decision to use story points, 
 or it's company policy where you work.
 
