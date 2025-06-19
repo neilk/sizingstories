@@ -38,7 +38,8 @@ or it's company policy where you work.
 
 Also, this document was created before agentic LLM coding tools
 existed. A rubric like this could still be useful, but with LLMs you should
-be estimating the work required to validate what it did.
+be estimating the work that a human nust do to validate what it did and 
+correct its mistakes.
 
 ## Rubric 
 
