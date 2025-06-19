@@ -36,6 +36,10 @@ There are good arguments for not doing estimation at all.
 We assume here that you've made the decision to use story points, 
 or it's company policy where you work.
 
+Also, this document was created before agentic LLM coding tools
+existed. A rubric like this could still be useful, but with LLMs you should
+be estimating the work required to validate what it did.
+
 ## Rubric 
 
 I gave sample Agile points and t-shirt sizes, but they are of course just suggestions.
